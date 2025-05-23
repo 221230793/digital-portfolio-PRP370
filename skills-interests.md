@@ -17,8 +17,11 @@ CertificateOfCompletion_Software Design Modeling with UML.pdf
 
 ## Reflection (STAR Technique)
 
-**Situation:** I needed to understand where my strengths lie as an ICT student and how I can contribute to a real-world team.  
+**Situation:** I needed to understand where my strengths lie as an ICT student and how I can contribute to a real-world team. 
+
 **Task:** Evaluate my current skills and match them with internship or WIL opportunities.  
+
 **Action:** I completed a university-provided skills audit and reflected on previous project experience.  
+
 **Result:** I found that I have strong skills in HTML, CSS, Java, and PHP (Laravel), along with good communication and adaptability. I am particularly interested in front-end development and mobile apps.
 
