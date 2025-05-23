@@ -12,7 +12,7 @@ SQL Certificate from Jobox-- https://www.linkedin.com/posts/onthatile-mohlamonya
 
 
 
-![Career Report](./career-counselling-report.png)
+![](./career-counselling-report.png)
 
 
 
