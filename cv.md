@@ -15,7 +15,7 @@
 
 ## ✅ CV Submission Proof
 
-![CV Email Submission](./cv-submission-email.jpeg)
+![CV Email Submission](./cv-submission-email.png)
 
 I submitted my CV to several companies.
 
