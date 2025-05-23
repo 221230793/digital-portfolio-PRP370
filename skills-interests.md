@@ -15,21 +15,7 @@ CertificateOfCompletion_Programming Foundations ObjectOriented Design.pdf
 CertificateOfCompletion_Software Design Modeling with UML.pdf
 
 
-
-
-
-
-
-
-## 💬 Reflection (STAR Technique)
-
-**Situation:** I was uncertain about the specific career opportunities in ICT.  
-**Task:** I had to explore career options and identify a path that aligns with my strengths and interests.  
-**Action:** I attended a counselling session and completed a career interest assessment.  
-**Result:** I discovered that I am best suited for roles such as Web Developer, Junior Software Engineer, or UI/UX Designer. I am now actively searching for a WIL placement in one of these areas.
-
-
-## 💬 Reflection (STAR Technique)
+## Reflection (STAR Technique)
 
 **Situation:** I needed to understand where my strengths lie as an ICT student and how I can contribute to a real-world team.  
 **Task:** Evaluate my current skills and match them with internship or WIL opportunities.  
