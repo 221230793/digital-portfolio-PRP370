@@ -12,7 +12,6 @@ SQL Certificate from Jobox-- https://www.linkedin.com/posts/onthatile-mohlamonya
 
 
 
-![linkin](./CertificateOfCompletion_Software_Design_Modeling_with_UML.pdf)
 
 
 
