@@ -8,7 +8,7 @@ Coding Fundamentals Certificate from Jobox-- https://www.linkedin.com/posts/onth
  
 SQL Certificate from Jobox-- https://www.linkedin.com/posts/onthatile-mohlamonyane-823898235_im-happy-to-share-that-ive-obtained-a-new-activity-7331397953577725952-J0R1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADqvg5sB21SfIl3spxYyx9iVHEHbZ_ZL3iY
 
-CertificateOfCompletion_Advanced SQL Project Design and Manage a Database.pdf
+https://github.com/221230793/digital-portfolio-PRP370.git/CertificateOfCompletion_Advanced SQL Project Design and Manage a Database.pdf
 
 ## 💬 Reflection (STAR Technique)
 
